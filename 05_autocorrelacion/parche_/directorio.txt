@@ -1,0 +1,2 @@
+"C:\ProgramData\Anaconda3\condabin" #escoge uno
+"C:\ProgramData\miniconda\condabin" #escoge uno
