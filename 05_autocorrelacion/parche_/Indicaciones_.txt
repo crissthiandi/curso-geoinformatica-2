@@ -1,0 +1,13 @@
+
+conda update --all
+
+
+conda env update --name **nombre_de_enviroment** --file geo_centro_dep.yml
+
+start conda activate **nombre_de_enviroment**
+
+conda install pysal=2.1.0
+
+cd \Users\
+
+jupyter-notebook
